@@ -1,0 +1,26 @@
+{
+    "name": "brainmx",
+    "description": "RobotistasMX Online board",
+    "files": [
+        "README.md",
+        "device.d.ts",
+        "config.ts",
+        "board.json",
+        "board.svg"
+    ],
+    "dependencies": {
+        "core---samd": "file:../core---samd",
+        "light": "file:../light",
+        "mixer---samd": "file:../mixer---samd"
+    },
+    "core": true,
+    "public": true,
+    "compileServiceVariant": "samd21",
+    "features": [
+        "uf2",
+        "pinled",
+        "pina0",
+        "pina1",
+        "light"
+    ]
+}
