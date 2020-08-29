@@ -89,7 +89,8 @@
         "libs/sparkfun-redboard-turbo",
         "libs/sparkfun-lumidrive",
         "libs/stitchkit",
-        "libs/brainmx"
+        "libs/brainmx",
+        "libs/botmx"
     ],
     "serial": {
         "useHF2": true,
