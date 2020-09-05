@@ -88,7 +88,9 @@
         "libs/sparkfun-samd21-mini-breakout",
         "libs/sparkfun-redboard-turbo",
         "libs/sparkfun-lumidrive",
-        "libs/stitchkit"
+        "libs/stitchkit",
+        "libs/brainmx",
+        "libs/botmx"
     ],
     "serial": {
         "useHF2": true,
